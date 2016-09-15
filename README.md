@@ -29,3 +29,20 @@ réponse: Le bug bounty est une pratique permettant à une entreprise de faire t
 L’objectif est de créer un cercle vertueux, où les entreprises bénéficient d’une veille de sécurité en ne payant que pour les bugs trouvés et où les hackers gagnent de l’argent et de la réputation.
 [lien 1] (https://www.nbs-system.com/blog/bug-bounty-une-nouvelle-pratique-pour-securiser-son-application.html) 
 
+Les avantages pour l'entreprise:
+1.Créer un Pastebin avec les données volées et les données en pâture à l’Internet, pour la gloire (ou le lulz)
+2.Faire part de sa découverte en espérant être admissible au Bug Bounty
+3.Protéger la sécurité des apps pour l'entreprise
+[lien 2] (http://www.intrusio.fr/hacking/les-bienfaits-des-programmes-de-bug-bounty/)
+
+
+
+Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
+
+Je trouve pas T_T
+
+
+
+
+
+
